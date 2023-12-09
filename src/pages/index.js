@@ -36,7 +36,7 @@ export default function Home() {
            <img className="profile-pic " src="/images/Portfolio-DP.jpg" alt="pic"/>
           </span>
           <div className="heading">
-           Software Developer
+           Software Engineer
           </div>
 
           {/* <div className="sub_heading">Hello, my name is Md Azad...</div> */}
