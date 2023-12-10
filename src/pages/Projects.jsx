@@ -11,7 +11,7 @@ const Data = [
     description:
       "React.js | SCSS | Responsive",
     code: "#Add Link Here",
-    demo: "https://modest-azad.vercel.app/",
+    demo: "https://vivekanand.vercel.app//",
   },
   
 ];

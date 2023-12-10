@@ -19,7 +19,7 @@ export default function Home() {
         <title>Portfolio</title>
         <meta
           name="description"
-          content="Designed and Developed with ❤️ by @mdAzad"
+          content="Designed and Developed with ❤️ by @Vivekanand"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#000000"></meta>
